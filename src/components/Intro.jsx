@@ -8,7 +8,7 @@ const Intro = () => {
           <p className='text-blue-50'>
             Hello, my name is
           </p>
-          <h1 className='text-4xl sm:text-7xl font-bold text-blue-50 py-1'>Johnathan Regan</h1>
+          <h1 className='text-4xl sm:text-7xl font-bold text-[#ffcc00] py-1'>Johnathan Regan</h1>
           <h2 className='text-4xl sm:text-7xl font-bold text-blue-50 py-1'>and I am a Full Stack Developer.</h2>
           <p className='text-blue-50 py-4 max-w-[700px]'>
             Resourceful and motivated junior full stack developer, proficient in core java full stack principals.

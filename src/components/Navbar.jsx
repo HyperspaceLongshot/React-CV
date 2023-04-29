@@ -14,21 +14,21 @@ const Navbar = () => {
     <div className='fixed w-full h-[80px] flex justify-between items-center px-8 bg-blue-950 text-blue-50'>
         {/* Heading Logo */}
     <div>
-        <h1 className='text-3xl'>J.Regan</h1>
+        <h1 className='text-3xl text-[#ffcc00]'>J.Regan</h1>
     </div>
         {/* Page Nav */}
     <div className='hidden md:flex'>
         <ul className='hidden md:flex'>
-            <li><Link to="intro" smooth={true} duration={500}>
+            <li className='hover:text-[#ffcc00] duration-700'><Link to="intro" smooth={true} duration={500}>
           Intro
         </Link></li>
-        <li><Link to="about" smooth={true} duration={500}>
+        <li className='hover:text-[#ffcc00] duration-700'><Link to="about" smooth={true} duration={500}>
           About
         </Link></li>
-        <li><Link to="skills" smooth={true} duration={500}>
+        <li className='hover:text-[#ffcc00] duration-700'><Link to="skills" smooth={true} duration={500}>
           Skills
         </Link></li>
-        <li><Link to="contact" smooth={true} duration={500}>
+        <li className='hover:text-[#ffcc00] duration-700'><Link to="contact" smooth={true} duration={500}>
           Contact
         </Link></li>
         </ul>

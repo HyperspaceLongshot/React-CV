@@ -59,12 +59,12 @@ const Navbar = () => {
     <div className='hidden lg:flex fixed flex-col top-[35%] left-0'>
         <ul>
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0072b1] rounded-r-lg'>
-                <a className='flex justify-between items-center w-full text-blue-50' href="/">
+                <a className='flex justify-between items-center w-full text-blue-50' href="https://linkedin.com/in/johnathan-regan-395849201">
                  LinkedIn <FaLinkedin size={30} /> 
                  </a></li>
 
                  <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333] rounded-r-lg'>
-                <a className='flex justify-between items-center w-full text-blue-50' href="/">
+                <a className='flex justify-between items-center w-full text-blue-50' href="https://github.com/HyperspaceLongshot">
                  GitHub <FaGithub size={30} /> 
                  </a></li>
 
@@ -74,7 +74,7 @@ const Navbar = () => {
                  </a></li>
 
                  <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#2164f3] rounded-r-lg'>
-                <a className='flex justify-between items-center w-full text-blue-50' href="/">
+                <a className='flex justify-between items-center w-full text-blue-50' href="https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage&_ga=2.89756957.729601500.1682781793-437224772.1682781793">
                  Indeed <SiIndeed size={30} /> 
                  </a></li>
                

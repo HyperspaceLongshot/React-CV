@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-CV/static/css/main.e0f2c254.css",
-    "main.js": "/React-CV/static/js/main.06a3051e.js",
+    "main.js": "/React-CV/static/js/main.e9481021.js",
     "static/media/spring_logo.png": "/React-CV/static/media/spring_logo.9e9932b72053112f56d6.png",
     "static/media/react.png": "/React-CV/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/html.png": "/React-CV/static/media/html.2ba4fabc69a89a8f71e6.png",
@@ -9,10 +9,10 @@
     "static/media/javascript.png": "/React-CV/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/React-CV/index.html",
     "main.e0f2c254.css.map": "/React-CV/static/css/main.e0f2c254.css.map",
-    "main.06a3051e.js.map": "/React-CV/static/js/main.06a3051e.js.map"
+    "main.e9481021.js.map": "/React-CV/static/js/main.e9481021.js.map"
   },
   "entrypoints": [
     "static/css/main.e0f2c254.css",
-    "static/js/main.06a3051e.js"
+    "static/js/main.e9481021.js"
   ]
 }

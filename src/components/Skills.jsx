@@ -5,7 +5,7 @@ import CSS from '../assets/css.png'
 import JavaScript from '../assets/javascript.png'
 import ReactImg from '../assets/react.png'
 import Java from '../assets/java_logo.png'
-import SpringBoot from '../assets/spring_logo.png'
+import SpringBoot from '../assets/new_spring.png'
 
 const Skills = () => {
   return (

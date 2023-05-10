@@ -11,6 +11,7 @@ const Contact = () => {
             <input className='bg-blue-100 p-2 border-2 border-[#ffcc00]  text-black' type="text" placeholder='Name' name='name'/>
             <input className='bg-blue-100 my-4 p-2 border-2 border-[#ffcc00]  text-black' type="email" placeholder='E-mail' name='email' />
             <textarea className='bg-blue-100 p-2 border-2 border-[#ffcc00] text-black' name="message" rows="10" placeholder='Message'></textarea>
+            <input type="hidden" name="_gotcha" style="display:none !important"></input>
             <button className='border-2 px-4 py-3 mx-auto my-8 flex items-center hover:bg-[#ffcc00] hover:text-black duration-700'>Send It!</button>
         </form>
     </div>
